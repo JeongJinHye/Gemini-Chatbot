@@ -1,5 +1,5 @@
 ### 1. 라이트 / 다크 모드 전환
-<img src="https://github.com/user-attachments/assets/e30044aa-80c9-4e66-818b-420d641c629d" width="500" height="400"/>
+https://github.com/user-attachments/assets/e30044aa-80c9-4e66-818b-420d641c629d
 
 ### 2. 채팅 & 답변 로딩 화면
 
