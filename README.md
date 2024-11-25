@@ -10,5 +10,5 @@ https://github.com/user-attachments/assets/29f0e87e-f439-40de-ab18-6de7d352ce03
 ## 4. 채팅 기록 삭제
 https://github.com/user-attachments/assets/039d0425-1396-4f0f-a099-1bf8da494297
 
-## 5. 질문 추천
+## 5. 추천 메시지
 https://github.com/user-attachments/assets/b01ffc31-8dd1-4bd1-8d1f-6a4c8134128c
